@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soumen Baral</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumenbaral&label=Profile%20views&color=0e75b6&style=flat" alt="soumenbaral" /> </p>
+<p align="left"> <img src="coding-boy.gif" alt="soumenbaral" /> </p>
 <img alt="Coding" width="400px" align="right" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
