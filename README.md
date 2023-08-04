@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumenbaral&label=Profile%20views&color=0e75b6&style=flat" alt="soumenbaral" /> </p>
-<img align="right" src="https://github.com/SoumenBaral/SoumenBaral/assets/115538835/919b907e-eb4d-41a0-934d-fdc6d90898bf)
+<img alt="Coding" width="400px" align="right" src="https://github.com/SoumenBaral/SoumenBaral/assets/115538835/919b907e-eb4d-41a0-934d-fdc6d90898bf)
 ">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
