@@ -20,4 +20,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumenbaral&show_icons=true&locale=en" alt="soumenbaral" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumenbaral&" alt="soumenbaral" /></p>
-<img alt="Coding" width="600px" align="center" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
+<img alt="Coding" width="600px" align="center" src="boy-coding.gif">
