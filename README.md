@@ -17,9 +17,9 @@
 
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumenbaral&show_icons=true&locale=en&layout=compact" alt="soumenbaral" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumenbaral&show_icons=true&locale=en&layout=compact" alt="soumenbaral" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=soumenbaral&" alt="soumenbaral" /></p>
 
 
 <img alt="Coding" width="850px" align="center" src="boy-coding.gif">
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=soumenbaral&show_icons=true&locale=en" alt="soumenbaral" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumenbaral&show_icons=true&locale=en" alt="soumenbaral" /></p>
