@@ -7,7 +7,7 @@
 <p align="left"> 
 <a href="https://www.linkedin.com/in/soumen-baral-846995192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soumen-baral-846995192/" height="30" width="40" /></a>
 <a href="https://fb.com/shumen.baral.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shumen.baral.3" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shumen_sb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shumen_sb" height="30" width="40" /></a>
+<a  href="https://www.hackerrank.com/shumen_sb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shumen_sb" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/soumen.sb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="soumen.sb" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/soumenbaral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="soumenbaral" height="30" width="40" /></a>
 </p>
