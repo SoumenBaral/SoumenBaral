@@ -19,7 +19,7 @@
 
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=soumenbaral&" alt="soumenbaral" /></p>
-<p><img align="mid" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumenBaral&hide_progress=true" alt="soumenbaral" /></p>
+<p><img align="mid" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumenBaral&hide_progress=true&theme=transparent" alt="soumenbaral" /></p>
 
 <img alt="Coding" width="850px" align="center" src="boy-coding.gif">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SoumenBaral&show_icons=true&theme=transparent" alt="soumenbaral" /></p>
