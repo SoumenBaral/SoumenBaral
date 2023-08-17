@@ -22,4 +22,4 @@
 <p><img align="mid" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumenbaral&show_icons=true&locale=en&layout=compact" alt="soumenbaral" /></p>
 
 <img alt="Coding" width="850px" align="center" src="boy-coding.gif">
-<p>&nbsp;<img align="center" src="[https://github-readme-stats.vercel.app/api?username=soumenbaral&show_icons=true&locale=en" alt="soumenbaral](https://github-readme-stats.vercel.app/api?username=SoumenBaral&show_icons=true&theme=transparent)https://github-readme-stats.vercel.app/api?username=SoumenBaral&show_icons=true&theme=transparent" /></p>
+<p>&nbsp;<img align="center" src="[[https://github-readme-stats.vercel.app/api?username=soumenbaral&show_icons=true&locale=en](https://github-readme-stats.vercel.app/api?username=SoumenBaral&show_icons=true&theme=transparent)https://github-readme-stats.vercel.app/api?username=SoumenBaral&show_icons=true&theme=transparent)https://github-readme-stats.vercel.app/api?username=SoumenBaral&show_icons=true&theme=transparent)https://github-readme-stats.vercel.app/api?username=SoumenBaral&show_icons=true&theme=transparent" alt="soumenbaral" /></p>
