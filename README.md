@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋  I'm Soumen Baral</h1>                                
 <h3 align="center">A Passionate Frontend Developer , Competitive Programmer And A Problem Solver From Bangladesh </h3>   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumenbaral&label=Profile%20views&color=0e75b6&style=flat" alt="soumenbaral" /> </p>
-<img alt="Coding" width="400px" align="right" src="coding-boy.gif"> 
+<img alt="Coding" width="400px" align="right" src="coding-boy.gif">  
 <h3 align="left">My Connect : </h3>   
 <p align="left">               
 <a href="https://www.linkedin.com/in/soumen-baral-846995192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soumen-baral-846995192/" height="30" width="40" /></a>
