@@ -1,5 +1,11 @@
 ![logo](ProfileLogo.png)                                                                                    
-<h1 align="center">Hi 👋  I'm Soumen Baral</h1>                                                                   
+<h1 align="center">Hi 👋  I'm Soumen Baral</h1>     
+<p align="center"> 
+  <div align="center">Visitor count</div>
+  <div align="center">
+    <img src="https://profile-counter.glitch.me/Niefee/count.svg"/>
+  </div> 
+</p>
 <h3 align="center">A Passionate Frontend Developer , Competitive Programmer And A Problem Solver From Bangladesh </h3>    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumenbaral&label=Profile%20views&color=0e75b6&style=flat" alt="soumenbaral" /> </p>
 <img alt="Coding" width="400px" align="right" src="coding-boy.gif">  
