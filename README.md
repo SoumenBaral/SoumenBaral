@@ -1,7 +1,8 @@
-![logo](ProfileLogo.png)                                                                                    
 <h3 align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Welcome+To+Soumen's+Profile;Consistent+Learner;Full+Stact+Developer;Problem+Solver;Dreamer" alt="Typing SVG" /></a>
 </h3>   
+![logo](ProfileLogo.png)                                                                                    
+
 
 <p align="center"> 
   <div align="center">Visitor count</div>
@@ -10,7 +11,7 @@
   </div> 
 </p>
 <h3 align="center">A Passionate Frontend Developer , Competitive Programmer And A Problem Solver From Bangladesh </h3>    
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumenbaral&label=Profile%20views&color=0e75b6&style=flat" alt="soumenbaral" /> </p>
+
 <img alt="Coding" width="400px" align="right" src="coding-boy.gif">  
 <h3 align="left">My Connect : </h3>   
 <p align="left">               
