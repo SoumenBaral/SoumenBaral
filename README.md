@@ -3,7 +3,7 @@
 <p align="center"> 
   <div align="center">Visitor count</div>
   <div align="center">
-    <img src="[https://profile-counter.glitch.me/Niefee/count.svg](https://komarev.com/ghpvc/?username=soumenbaral&label=Profile%20views&color=0e75b6&style=flat)"/>
+    <img src="https://profile-counter.glitch.me/Niefee/count.svg"/>
   </div> 
 </p>
 <h3 align="center">A Passionate Frontend Developer , Competitive Programmer And A Problem Solver From Bangladesh </h3>    
