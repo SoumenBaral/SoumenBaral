@@ -54,7 +54,9 @@
 <h3 align="left">Languages and Tools : </h3> 
 
 
-<p align="left"> ## Frontend
+<p align="left"> 
+  
+## Frontend
 
 [![HTML5 Badge](https://img.shields.io/badge/-Html5-E34c26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34c26)](#)
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)
