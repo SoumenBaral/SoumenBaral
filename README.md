@@ -115,7 +115,7 @@
 [![Zoom Badge](https://img.shields.io/badge/stackoverflow-f48024?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=f48024)](#)
  </p> 
 <hr>
-<p style='margin:300px'><img align="left" src="https://streak-stats.demolab.com/?user=soumenbaral&theme=vision-friendly-dark" alt="soumenbaral" /></p>
+<p><img align="left" src="https://streak-stats.demolab.com/?user=soumenbaral&theme=vision-friendly-dark" alt="soumenbaral" /></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumenBaral&langs_count=6&theme=transparent" alt="soumenbaral" /></p>
 
 <!--<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=soumenbaral&theme=vision-friendly-dark" alt="soumenbaral" /></p-->
