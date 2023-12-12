@@ -51,7 +51,10 @@
 </p> 
   <hr> 
   
-<h3 align="left">Languages and Tools : </h3> 
+<h2 style='margin-top:30px'>
+        <span style='padding-right:10px'><img width="30px"  height="30px" src="https://img.icons8.com/fluency/48/000000/programming.png"/> <img width="30px" height="30px" src="https://img.icons8.com/office/50/000000/administrative-tools.png"/></span>
+        <b>Languages and Tools :</b>
+</h2>
 
 
 <p align="left"> 
