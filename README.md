@@ -41,7 +41,6 @@
 
 
 <img alt="Coding" width="400px" align="right" src="coding-boy.gif">  
-<h3 align="left">My Connect : </h3>  
 <h2 style='margin-top:30px'>
         <span><img width="30px" height="30px" src="https://img.icons8.com/clouds/100/000000/contact-card.png"/></span>
         <b>Connect with me :</b>
