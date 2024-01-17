@@ -1,4 +1,4 @@
-![logo](ProfileLogo.png)                                                                                                           
+![logo](ProfileLogo.png)                                                                                                            
     
 <h3 align="center">     
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Welcome+To+Soumen's+Profile;Consistent+Learner;Full+Stact+Developer;Problem+Solver;Dreamer" alt="Typing SVG" /></a>
