@@ -114,26 +114,39 @@
 [![Zoom Badge](https://img.shields.io/badge/stackoverflow-f48024?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=f48024)](#)
  </p> 
 <hr>
-<table>
-  <thead>
-    <tr>
-      <th align="center">
-        <picture>
-          <source srcset="https://github-readme-stats.vercel.app/api?username=soumenbaral&count_private=true&theme=radical&show_icons=true" media="(prefers-color-scheme: dark)" />
-          <source srcset="https://github-readme-stats.vercel.app/api?username=soumenbaral&count_private=true&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-          <img src="https://github-readme-stats.vercel.app/api?username=soumenbaral&count_private=true&show_icons=true" />
-        </picture>
-      </th>
-      <th align="center">
-        <picture>
-          <source srcset="https://github-readme-streak-stats-psi-five.vercel.app?user=soumenbaral&theme=radical&border_radius=4&mode=weekly&date_format=d.m.y&card_width=360" media="(prefers-color-scheme: dark)" />
-          <source srcset="https://github-readme-streak-stats-psi-five.vercel.app?user=soumenbaral&border_radius=4&mode=weekly&date_format=d.m.y&card_width=360" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-          <img src="https://github-readme-streak-stats-psi-five.vercel.app/?user=soumenbaral&border_radius=4&mode=weekly&date_format=d.m.y&card_width=360" />
-        </picture>
-      </th>
-    </tr>
-  </thead>
-</table>
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=soumenbaral&count_private=true&theme=radical&show_icons=true"
+      media="(prefers-color-scheme: dark)" 
+    />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=soumenbaral&count_private=true&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=soumenbaral&count_private=true&show_icons=true"
+      alt="GitHub Stats"
+    />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats-psi-five.vercel.app?user=soumenbaral&theme=radical&border_radius=4"
+      media="(prefers-color-scheme: dark)" 
+    />
+    <source 
+      srcset="https://github-readme-streak-stats-psi-five.vercel.app?user=soumenbaral&border_radius=4"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
+    />
+    <img 
+      src="https://github-readme-streak-stats-psi-five.vercel.app?user=soumenbaral&border_radius=4"
+      alt="GitHub Streak"
+    />
+  </picture>
+</p>
 
 
 <!-- orgs -->
