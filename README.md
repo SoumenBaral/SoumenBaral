@@ -114,11 +114,7 @@
 [![Zoom Badge](https://img.shields.io/badge/stackoverflow-f48024?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=f48024)](#)
  </p> 
 <hr>
-<picture>
-          <source srcset="https://github-readme-stats.vercel.app/api?username=soumenbaral&count_private=true&theme=radical&show_icons=true" media="(prefers-color-scheme: dark)" />
-          <source srcset="https://github-readme-stats.vercel.app/api?username=soumenbaral&count_private=true&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-          <img src="https://github-readme-stats.vercel.app/api?username=soumenbaral&count_private=true&show_icons=true" />
-        </picture>
+
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=soumenbaral&theme=vision-friendly-dark" alt="soumenbaral" /></p>
 <p><img align="mid" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumenBaral&langs_count=6&theme=transparent" alt="soumenbaral" /></p>
 
