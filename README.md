@@ -119,16 +119,16 @@
     <tr>
       <th align="center">
         <picture>
-          <source srcset="https://github-readme-stats.vercel.app/api?username=fa7ad&count_private=true&theme=radical&show_icons=true" media="(prefers-color-scheme: dark)" />
-          <source srcset="https://github-readme-stats.vercel.app/api?username=fa7ad&count_private=true&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-          <img src="https://github-readme-stats.vercel.app/api?username=fa7ad&count_private=true&show_icons=true" />
+          <source srcset="https://github-readme-stats.vercel.app/api?username=soumenbaral&count_private=true&theme=radical&show_icons=true" media="(prefers-color-scheme: dark)" />
+          <source srcset="https://github-readme-stats.vercel.app/api?username=soumenbaral&count_private=true&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+          <img src="https://github-readme-stats.vercel.app/api?username=soumenbaral&count_private=true&show_icons=true" />
         </picture>
       </th>
       <th align="center">
         <picture>
-          <source srcset="https://github-readme-streak-stats-psi-five.vercel.app?user=fa7ad&theme=radical&border_radius=4&mode=weekly&date_format=d.m.y&card_width=360" media="(prefers-color-scheme: dark)" />
-          <source srcset="https://github-readme-streak-stats-psi-five.vercel.app?user=fa7ad&border_radius=4&mode=weekly&date_format=d.m.y&card_width=360" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-          <img src="https://github-readme-streak-stats-psi-five.vercel.app/?user=fa7ad&border_radius=4&mode=weekly&date_format=d.m.y&card_width=360" />
+          <source srcset="https://github-readme-streak-stats-psi-five.vercel.app?user=soumenbaral&theme=radical&border_radius=4&mode=weekly&date_format=d.m.y&card_width=360" media="(prefers-color-scheme: dark)" />
+          <source srcset="https://github-readme-streak-stats-psi-five.vercel.app?user=soumenbaral&border_radius=4&mode=weekly&date_format=d.m.y&card_width=360" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+          <img src="https://github-readme-streak-stats-psi-five.vercel.app/?user=soumenbaral&border_radius=4&mode=weekly&date_format=d.m.y&card_width=360" />
         </picture>
       </th>
     </tr>
