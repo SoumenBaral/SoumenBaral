@@ -114,6 +114,60 @@
 [![Zoom Badge](https://img.shields.io/badge/stackoverflow-f48024?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=f48024)](#)
  </p> 
 <hr>
+<table>
+  <thead>
+    <tr>
+      <th align="center">
+        <picture>
+          <source srcset="https://github-readme-stats.vercel.app/api?username=fa7ad&count_private=true&theme=radical&show_icons=true" media="(prefers-color-scheme: dark)" />
+          <source srcset="https://github-readme-stats.vercel.app/api?username=fa7ad&count_private=true&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+          <img src="https://github-readme-stats.vercel.app/api?username=fa7ad&count_private=true&show_icons=true" />
+        </picture>
+      </th>
+      <th align="center">
+        <picture>
+          <source srcset="https://github-readme-streak-stats-psi-five.vercel.app?user=fa7ad&theme=radical&border_radius=4&mode=weekly&date_format=d.m.y&card_width=360" media="(prefers-color-scheme: dark)" />
+          <source srcset="https://github-readme-streak-stats-psi-five.vercel.app?user=fa7ad&border_radius=4&mode=weekly&date_format=d.m.y&card_width=360" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+          <img src="https://github-readme-streak-stats-psi-five.vercel.app/?user=fa7ad&border_radius=4&mode=weekly&date_format=d.m.y&card_width=360" />
+        </picture>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <picture>
+          <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fa7ad&layout=compact&card_width=417&show_icons=true&theme=radical" media="(prefers-color-scheme: dark)" />
+          <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fa7ad&layout=compact&card_width=417&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fa7ad&layout=compact&card_width=417&show_icons=true" />
+        </picture>
+      </td>
+      <td align="center">
+        <a href="https://open.spotify.com/track/48Zzcl2ifQpsVu1PHwnqKy">
+          <img src="https://spotify-recently-played-readme.vercel.app/api?user=fahadiam&width=360&count=2&unique=1" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+<!-- orgs -->
+
+[Virtual Minds]: https://virtualminds.de/en/
+[k8s]: https://kubernetes.io
+[@aws]: https://github.com/aws
+[Westwing]: https://github.com/Westwing-Home-and-Living
+[dh]: https://grameendh.com
+[React]: https://reactjs.org/
+[blog]: https://mildlyboring.com
+
+<!-- unnamed links -->
+
+[1]: https://ipa-reader.com/?text=f%C3%A4h%C3%A6%C3%B0&voice=Filiz
+[2]: https://www.zdnet.com/article/the-early-adopter-tax/
+
+<hr>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=soumenbaral&theme=vision-friendly-dark" alt="soumenbaral" /></p>
 <p><img align="mid" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumenBaral&langs_count=6&theme=transparent" alt="soumenbaral" /></p>
