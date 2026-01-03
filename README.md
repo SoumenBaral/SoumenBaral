@@ -134,7 +134,7 @@
 <p align="center">
   <picture>
     <source 
-      srcset="https://github-readme-streak-stats-psi-five.vercel.app?user=soumenbaral&theme=radical&border_radius=4"
+      srcset="https://github-readme-streak-stats-psi-five.vercel.app?user=soumenbaral&theme=vision-friendly-dark&border_radius=4"
       media="(prefers-color-scheme: dark)" 
     />
     <source 
@@ -164,10 +164,10 @@
 [1]: https://ipa-reader.com/?text=f%C3%A4h%C3%A6%C3%B0&voice=Filiz
 [2]: https://www.zdnet.com/article/the-early-adopter-tax/
 
-<hr>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=soumenbaral&theme=vision-friendly-dark" alt="soumenbaral" /></p>
-<p><img align="mid" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumenBaral&langs_count=6&theme=transparent" alt="soumenbaral" /></p>
+
+<!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=soumenbaral&theme=vision-friendly-dark" alt="soumenbaral" /></p>
+<p><img align="mid" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumenBaral&langs_count=6&theme=transparent" alt="soumenbaral" /></p> -->
 
 
 
