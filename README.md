@@ -4,7 +4,7 @@
 </h3>                                                                                 
    
 <!--<p align="center">    
-  <div align="center">Visitor count</div>
+  <div align="center">Visitor count</div> 
   <div align="center">
     <img src="https://profile-counter.glitch.me/SoumenBaral/count.svg"/>
   </div> 
