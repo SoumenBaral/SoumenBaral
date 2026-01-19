@@ -114,7 +114,7 @@
 [![Zoom Badge](https://img.shields.io/badge/stackoverflow-f48024?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=f48024)](#)
  </p> 
 <hr>
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=soumenbaral&count_private=true&theme=radical&show_icons=true"
@@ -129,7 +129,7 @@
       alt="GitHub Stats"
     />
   </picture>
-</p>
+</p> -->
 
 <p align="center">
   <picture>
